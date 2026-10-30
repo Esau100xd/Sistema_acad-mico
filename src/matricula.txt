@@ -1,0 +1,2 @@
+Requisitos
+Validación de prerrequisitos aprobados activada.

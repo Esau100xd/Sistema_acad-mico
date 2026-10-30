@@ -1,0 +1,2 @@
+Sección de Requisitos
+REQ-02: Validar que el estudiante cumpla con los prerrequisitos del curso antes de matricularlo.
