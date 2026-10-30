@@ -1,2 +1,3 @@
 Requisitos
 Validación de prerrequisitos aprobados activada.
+Corrección: Bloquear e impedir el doble registro de matrícula para un mismo curso.
